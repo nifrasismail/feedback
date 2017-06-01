@@ -60,4 +60,4 @@ Like this we can create each and categorised based feedback templates to the wor
 
 How to Contribute ?
 -------------
-Shall we together make millions of feedback api engines how? just check on [Contributing.md](https://github.com/nifrasismail/feedback/blob/master/README.md)
+Shall we together make millions of feedback api engines how? just check on [Contributing.md](https://github.com/nifrasismail/feedback/blob/master/Contributing.md)
