@@ -18,39 +18,39 @@ We come with a solution that we are enabling the feedback through our small chun
 
 ```javascript
 {
-	product : “restaurant”
-	features : [
-		{
-			feature_name : “clean”
-			weight : “1”,
-			locality : [ “all” ]
-		},
-		{
-			feature_name : “humanity”
-			weight : “1”,
-			locality : [ “all” ]
-		},
-		{
-			feature_name : “on-time-serving”
-			weight : “1”,
-        			locality : [ “all” ]
-		},
-		{
-			feature_name : “healthy-food”
-			weight : “1”,
-			locality : [ “all” ]
-		},
-		{
-			feature_name : “spicy”
-			weight : “1”
-			locality : [ “lk” ]
-		},
-		{
-			feature_name : “richness”
-			weight : “1”,
-			locality : [ “all” ]
-		}
-	]
+  "product" : "resturant",
+  "features" : [
+    {
+      "feature_name" : "clean",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "humanity",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "on-time-serving",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "healthy-food",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "spicy",
+      "weight" : "1",
+      "locality" : [ "lk" ]
+    },
+    {
+      "feature_name" : "richness",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    }
+  ]
 }
 ```
 Like this we can create each and categorised based feedback templates to the world.
