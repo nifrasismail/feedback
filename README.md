@@ -55,6 +55,9 @@ We come with a solution that we are enabling the feedback through our small chun
 ```
 Like this we can create each and categorised based feedback templates to the world.
 
+Want to get the Country short Codes here : [Country short Codes](http://www.nationsonline.org/oneworld/country_code_list.htm)
+We are following **ISO Alpha 2 Code ** Standards on locality tag
+
 ---------------------
 
 How to Participate
