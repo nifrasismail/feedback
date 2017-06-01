@@ -1,0 +1,35 @@
+{
+  "product" : "",
+  "features" : [
+    {
+      "feature_name" : "",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    }
+  ]
+}
