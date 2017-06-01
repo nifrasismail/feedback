@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa1abb1d-d84e-41b0-a2cc-a1fa1f3307d6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feed-templates/feed_resturnat.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +22,18 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="707">
-              <caret line="62" column="158" lean-forward="false" selection-start-line="62" selection-start-column="158" selection-end-line="62" selection-end-column="158" />
+            <state relative-caret-position="687">
+              <caret line="61" column="118" lean-forward="false" selection-start-line="61" selection-start-column="118" selection-end-line="61" selection-end-column="118" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feed_resturnat.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feed-templates/feed_resturnat.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -39,6 +51,14 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>“</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -47,6 +67,7 @@
       <list>
         <option value="$PROJECT_DIR$/CODE_OF_CONDUCT.md" />
         <option value="$PROJECT_DIR$/Contributing.md" />
+        <option value="$PROJECT_DIR$/feed-templates/feed_resturnat.json" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -184,12 +205,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496296831448</updated>
-      <workItem from="1496296834010" duration="928000" />
+      <workItem from="1496296834010" duration="1537000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="928000" />
+    <option name="totallyTimeSpent" value="1537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="985" extended-state="6" />
@@ -232,6 +253,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/feed-templates/feed_resturnat.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Contributing.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -242,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="62" column="158" lean-forward="false" selection-start-line="62" selection-start-column="158" selection-end-line="62" selection-end-column="158" />
+        <state relative-caret-position="687">
+          <caret line="61" column="118" lean-forward="false" selection-start-line="61" selection-start-column="118" selection-end-line="61" selection-end-column="118" />
           <folding />
         </state>
       </provider>

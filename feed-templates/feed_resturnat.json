@@ -1,0 +1,35 @@
+{
+  "product" : "resturant",
+  "features" : [
+    {
+      "feature_name" : "clean",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "humanity",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "on-time-serving",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "healthy-food",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "spicy",
+      "weight" : "1",
+      "locality" : [ "lk" ]
+    },
+    {
+      "feature_name" : "richness",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    }
+  ]
+}
