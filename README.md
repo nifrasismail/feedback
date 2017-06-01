@@ -2,7 +2,7 @@ FeedBack API - Hand written JSON
 ===================
 
 
-This is a handcraft JSON spi gives you to create and collobrate more specific feeback templates to the world. From this JSON template we gives more specific feed templates by crowd sourcing. If you are a web developer or  mobile content developer you can easily download the relevant json and free to use for yourr feedback engines tempaltes.
+This is a handcraft JSON API gives you to create and collaborate more specific feedback templates to the world. From this JSON template, we give more specific feed templates by crowdsourcing. If you are a web developer or mobile content developer you can easily download the relevant JSON and free to use for your feedback engines templates.
 
 
 ----------
