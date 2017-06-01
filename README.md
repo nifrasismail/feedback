@@ -16,7 +16,7 @@ While you are creating a web site to offering pizza’s, while you offering pizz
 
 We come with a solution that we are enabling the feedback through our small chunk of JSON API **feed_resturnat.json**
 
-```json
+```javascript
 {
 	product : “pizza”
 	features : [
