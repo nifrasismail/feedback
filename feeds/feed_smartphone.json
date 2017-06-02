@@ -1,0 +1,65 @@
+{
+  "product" : "Smartphone",
+  "features" : [
+    {
+      "feature_name" : "price",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+     {
+      "feature_name" : "Brand",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+ {
+      "feature_name" : "battery capacity",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "camera quality",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "display size",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "Ram",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "storage capacity",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "Speakers",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "sensor",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "Processor",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "Operating System",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "Sim Type",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    }
+]
+}
