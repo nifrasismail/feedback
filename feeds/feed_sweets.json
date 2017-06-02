@@ -1,0 +1,35 @@
+{
+  "product" : "Sweets",
+  "features" : [
+    {
+      "feature_name" : "Taste",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "quality",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "quantity",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "preservation",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "amount of sweetness",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "price",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    }
+  ]
+}
