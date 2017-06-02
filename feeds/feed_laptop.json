@@ -1,0 +1,60 @@
+{
+  "product" : " laptop",
+  "features" : [
+    {
+      "feature_name" : "processor",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "dedicated graphics",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "display size",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "touch screen enabled",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "RAM",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "colour",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "weight",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "storage capacity",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "speaker",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "cooling system",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+      {
+      "feature_name" : "brand",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    }
+  ]
+}
