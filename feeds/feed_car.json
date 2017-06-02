@@ -1,0 +1,35 @@
+{
+  "product" : "car",
+  "features" : [
+    {
+      "feature_name" : "price",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "engine",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "suspension",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "turbo charger",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "ABS",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "fuel efficiency",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    }
+  ]
+}
