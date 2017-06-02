@@ -1,0 +1,30 @@
+{
+  "product" : "House",
+  "features" : [
+    {
+      "feature_name" : "price",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "water facility",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "electricity availability",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "surroundings",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+    {
+      "feature_name" : "area / Number of rooms",
+      "weight" : "1",
+      "locality" : [ "all" ]
+    },
+   ]
+}
