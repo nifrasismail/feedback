@@ -22,9 +22,9 @@
       "locality" : [ "all" ]
     },
     {
-      "feature_name" : "area / Number of rooms",
+      "feature_name" : "Number of rooms",
       "weight" : "1",
       "locality" : [ "all" ]
-    },
+    }
    ]
 }
