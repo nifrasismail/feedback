@@ -11,7 +11,7 @@ This is a handcraft JSON API gives you to create and collaborate more specific f
 Problem & Solution
 -------------
 
-![Android Widget Sample](designs/Android.png =250x "Sample Widget FeedBack from JSON")
+![Android Widget Sample](designs/Android.png?raw=true "Sample Widget FeedBack from JSON")
 
 While you are creating a web site to for restaurant, while users visit to the restaurant, you wish to getting the feedback of the restaurant. You offered. How did you measure. Using existing 5 star rating system is enough?
 
